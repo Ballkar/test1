@@ -1,3 +1,6 @@
 [submodule "test2"]
 	path = test2
 	url = https://github.com/Ballkar/test2.git
+[submodule "dupa"]
+	path = dupa
+	url = https://github.com/Ballkar/test3.git
